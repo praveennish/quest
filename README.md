@@ -11,6 +11,7 @@ Terraform needs to be installed on respective platform. Detailed Terraform instr
 - cd to cloned repo
   
 # Deployment steps
+- aws configure
 - terraform init
 - terraform plan
 - terraform apply
